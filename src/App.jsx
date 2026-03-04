@@ -5,8 +5,8 @@ import MatematicasMagicas from "./components/MatematicasMagicas";
 const App = () => {
   return (
     <div>
-      <Saludo />
-      <MatematicasMagicas />
+      <Saludo/>
+      <MatematicasMagicas/>
     </div>
   )
 }
