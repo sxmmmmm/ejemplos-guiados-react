@@ -1,7 +1,7 @@
 function MatematicasMagicas() {
     // Paso 1: Javascript normal
     const nombre = "Samuel";
-    const edad = 17;
+    const edad = 18;
     const anioNacimiento = 2026 - edad; //calculamos algo rapido
     // Paso 2: El portal magico de las llaves {}
     return (
